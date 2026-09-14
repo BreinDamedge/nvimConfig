@@ -2,7 +2,7 @@
 return {
   "mistricky/codesnap.nvim",
   -- source = "https://gi"v2.0.0",thub.com/mistricky/codesnap.nvim.git",
-  tag = "v2.0.5",
+  tag = "v2.1.0",
   keys = {
     { "<leader>ts", "<cmd>CodeSnap<cr>", mode = "v", desc = "Save selected code snapshot to clipboard" },
     -- { "<leader>tas", "<cmd>CodeSnapASCII<cr>", mode = "v", desc = "Save selected code snapshot to clipboard as ascii" },
