@@ -8,4 +8,4 @@ vim.opt.spelllang = "en_us"
 
 -- line endings
 vim.opt.fileformat = "unix"
-vim.opt.fileformats = "unix"
+vim.opt.fileformats = "unix,dos"
